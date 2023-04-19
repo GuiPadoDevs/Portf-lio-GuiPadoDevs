@@ -1,2 +1,5 @@
-# Portf-lio-GuiPadoDevs
-Aqui está meu portfólio! Desenvolvi um site para deixar ele público e ter maior alcance! || Here is my portfolio!! I developed a website to become public and have a greater reach!!
+# 👨🏻‍💻 GuiPadoDevs 👨🏻‍💻
+
+Este é o meu website pessoal, que funciona como meu portfólio e currículo. Aqui você pode encontrar informações sobre mim, meus projetos e minhas habilidades em desenvolvimento.
+👇🏼 👇🏼
+https://guipadodevs.com
